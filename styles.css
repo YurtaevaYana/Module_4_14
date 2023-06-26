@@ -4,7 +4,7 @@ h1 { /* Вписывается название тега, а дальше в {} 
 }
 
 .paragraph-1 { /* здесь прописываем название_тега.класс_тега, но так как такой класс есть только у одного тега, его название можно не писать */
-    background: yellow; /* задний фон */
+    background: linear-gradient(90deg, #f598a8, #f6edb2); /* задний фон */
     font-size: 32px; /* размер шрифта - 32 пикселя */
     color: green /* цвет шрифта */
 }
@@ -25,8 +25,8 @@ h1 { /* Вписывается название тега, а дальше в {} 
 }
 
 .paragraph-4 {
-    font-style: oblique;
+    font-style: italic;
     font-size: 24px;
-    text-shadow: 2px 3px 4px green;
+    text-shadow: 2px 2px 4px green;
     text-align: center;
 }
